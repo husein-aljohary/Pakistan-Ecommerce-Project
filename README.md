@@ -17,4 +17,13 @@ we will be able to answer these questions:<br><br>
 • Find any hidden patterns that are counter-intuitive for a layman<br>
 • Can we predict number of orders, or item category or number of customers/amount in advance?
 
+### Used libraries
+• pandas<br>
+• numpy <br>
+• seaborn <br>
+• matplotlib<br>
+• plotly<br>
+• scipy <br>
+
+
 ### [tableau link](https://public.tableau.com/app/profile/husein.aljohary8537/viz/project1_17122298205000/Dashboard1)
